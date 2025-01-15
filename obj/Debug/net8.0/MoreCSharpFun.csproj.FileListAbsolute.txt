@@ -1,0 +1,14 @@
+/Users/bcarter/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun
+/Users/bcarter/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.deps.json
+/Users/bcarter/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.runtimeconfig.json
+/Users/bcarter/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.dll
+/Users/bcarter/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.pdb
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.AssemblyInfoInputs.cache
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.AssemblyInfo.cs
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.csproj.CoreCompileInputs.cache
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.dll
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/refint/MoreCSharpFun.dll
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.pdb
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.genruntimeconfig.cache
+/Users/bcarter/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/ref/MoreCSharpFun.dll
